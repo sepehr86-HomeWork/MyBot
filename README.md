@@ -1,1 +1,3 @@
 # MyBot
+This is a Base of a Telegram bot Developed in C#.
+ To use replace you'r Token in class1.cs
